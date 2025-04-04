@@ -19,6 +19,7 @@ A Tableau dashboard analyzing U.S. profitability by category and state. Includes
 
 A data-driven story identifying sales–profit mismatches across U.S. states. Highlighted Pennsylvania’s negative profit trend and proposed a new distribution center near Philadelphia to reduce logistics costs.
 
+![image](https://github.com/user-attachments/assets/0edf0df1-f082-4add-b010-40b382bce8a5)
 
 
 
