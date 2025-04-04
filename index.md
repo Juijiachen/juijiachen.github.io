@@ -30,8 +30,11 @@ A data-driven story identifying sales–profit mismatches across U.S. states. Hi
 
 ### Production Planning
 
-- [Project 1 Title](http://example.com/)
+### [Task Scheduling in Manufacturing Workflow Planning](/project3)
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a3765e69-e1a7-41ef-a712-f6dd8045ccea" width="800" />
+</div>
 
 ---
 
