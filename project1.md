@@ -1,11 +1,11 @@
 
-# 📊 Sales & Profit Analysis Dashboard
+# Sales & Profit Analysis Dashboard
 
 This is a project showing an interactive Tableau dashboard that explores profitability and sales trends across product categories and regions in the U.S. The dashboard allows users to identify key business drivers and underperforming areas by visualizing performance over time, across states, and among product categories.
 
 ---
 
-## 📁 Data Source
+## Data Source
 
 The dataset contains **9,994 records** from a U.S. superstore and includes fields like:
 
@@ -16,9 +16,9 @@ The dataset contains **9,994 records** from a U.S. superstore and includes field
 
 ---
 
-## 📌 Visualizations & Key Insights
+## Visualizations & Key Insights
 
-### 1. 📦 Category-Level Profit Breakdown
+### 1. Category-Level Profit Breakdown
 
 ![image](https://github.com/user-attachments/assets/1cd0ca91-fff7-491e-bda3-b5a36a7210cc)
 
@@ -31,7 +31,7 @@ The dataset contains **9,994 records** from a U.S. superstore and includes field
 
 ---
 
-### 2. 🗺️ Profit by State
+### 2. Profit by State
 
 ![image](https://github.com/user-attachments/assets/7f71b464-a445-4e81-bd62-830b40e620eb)
 
@@ -44,7 +44,7 @@ The dataset contains **9,994 records** from a U.S. superstore and includes field
 
 ---
 
-### 3. 📈 Profit Over Time
+### 3. Profit Over Time
 
 ![image](https://github.com/user-attachments/assets/f38fd2a9-425b-4497-9e13-410f534f9930)
 
@@ -57,7 +57,7 @@ The dataset contains **9,994 records** from a U.S. superstore and includes field
 
 ---
 
-### 4. 🔁 Sales vs Profit (Scatter Plot)
+### 4. Sales vs Profit (Scatter Plot)
 
 ![image](https://github.com/user-attachments/assets/fc0a92de-5f25-4100-a39e-47c635d7376f)
 
@@ -70,7 +70,7 @@ The dataset contains **9,994 records** from a U.S. superstore and includes field
 
 ---
 
-## ✅ Summary
+## Summary
 
 This dashboard helped uncover several key business insights:
 
@@ -79,7 +79,7 @@ This dashboard helped uncover several key business insights:
 - **Seasonality & Volatility**: Profit fluctuates sharply over time. Businesses should investigate periods of steep decline and consider inventory, marketing, or seasonal factors that may be influencing trends.
 - **Sales ≠ Profit**: The scatter plot reveals that high sales volumes do not guarantee profitability. Some transactions incur a loss despite large sales numbers, highlighting the need to optimize the cost structure or discounting strategies.
 
-## 🛠 Suggested Solutions
+## Suggested Solutions
 
 Based on the insights uncovered in this dashboard, here are a few potential next steps:
 
