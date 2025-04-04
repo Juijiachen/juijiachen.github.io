@@ -5,13 +5,16 @@
 ### Analytics Dashboard
 
 [Profit Pulse: Interactive Category Performance Dashboard](/sample_page)
-![image](https://github.com/user-attachments/assets/d4da06cf-9dfe-442c-ab11-09129c321d25)
 A Tableau dashboard analyzing U.S. profitability by category and state. Includes trend lines, bar charts, and a heat map, with interactive filters for dynamic regional and product insights.
+![image](https://github.com/user-attachments/assets/d4da06cf-9dfe-442c-ab11-09129c321d25)
+
 
 ---
 [Targeted Growth: A Visual Sales Story for Strategic Expansion](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 A data-driven story identifying sales–profit mismatches across U.S. states. Highlighted Pennsylvania’s negative profit trend and proposed a new distribution center near Philadelphia to reduce logistics costs.
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [](http://example.com/)
