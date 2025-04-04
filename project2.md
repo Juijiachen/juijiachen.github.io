@@ -3,12 +3,11 @@
 This project explores sales and profitability patterns across U.S. states and cities using Tableau dashboards. By focusing on Pennsylvania, a high-sales but low-profit state, we investigate the possibility of improving profit margins by proposing a new distribution center near Philadelphia.
 
 ---
-## 🔍 Dataset
+## Dataset
 - **Source**: Superstore Orders (9,994 rows)
 - **Fields**: Includes `Sales`, `Profit`, `Order ID`, `Customer`, `State`, `City`, `Order Date`, `Cost of Sales` (calculated), etc.
 
 ---
-
 ## Key Visualizations & Insights
 
 ### 1. **Sales by State**
@@ -71,11 +70,19 @@ This project explores sales and profitability patterns across U.S. states and ci
 
 ---
 
-## Summary
-Pennsylvania generates strong sales performance, but a large number of orders result in negative profit. The root cause appears to be the high cost of fulfilling these orders, which often outweighs the revenue generated.
+## Monthly State-Level Sales & Profitability Analysis
+
+![image](https://github.com/user-attachments/assets/dc2b1ee4-8a1c-4240-b786-29657657ca94)
+
 
 ---
 
-## Solution  
-A potential solution is to set up a distribution center near Philadelphia. By reducing the cost-to-serve for the region, it's possible to improve the profit margin of Pennsylvania orders and align them with the performance of other high-revenue states.
+## Data-Driven Findings
 
+Tableau visualizations initially revealed a disconnect between sales and profit in Pennsylvania. Despite ranking among the top five states in total sales, a large number of orders generated negative profit, especially around the Philadelphia area.
+
+To validate and expand on this observation, monthly state-level data was analyzed using SQL. The results confirmed that:
+
+- **Pennsylvania’s cumulative profit** (`RunningProfitByState`) remained negative for five consecutive months—even as its order volume continued to grow.
+- Its **average monthly profit** (`AvgProfitByState`) was **–$1,125**, significantly lower than that of **California (+$3,800)** and **New York (+$2,700)**.
+- In terms of **monthly profit rank** (`ProfitRankThisMonth`), Pennsylvania consistently fell in the bottom third of all states—ranking **22nd and 26th** out of 30 in February and March, respectively.
