@@ -27,10 +27,6 @@ A data-driven story identifying sales–profit mismatches across U.S. states. Hi
 
 
 ---
-[](http://example.com/)
-
-
----
 
 ### Category Name 2
 
