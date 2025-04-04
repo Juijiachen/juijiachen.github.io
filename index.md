@@ -32,6 +32,9 @@ A data-driven story identifying sales–profit mismatches across U.S. states. Hi
 
 ### [Task Scheduling in Manufacturing Workflow Planning](/project3)
 
+
+The project aims to optimize task scheduling in a manufacturing workflow by applying critical path analysis. By visualizing task dependencies—spanning procurement, assembly, inspection, and shipping—the analysis identifies which processes are time-sensitive and which offer scheduling flexibility. This structure supports efficient cross-department coordination to meet the 16-day production goal for a new product launch.
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a3765e69-e1a7-41ef-a712-f6dd8045ccea" width="800" />
 </div>
