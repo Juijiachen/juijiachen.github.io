@@ -14,28 +14,24 @@ A Tableau dashboard analyzing U.S. profitability by category and state. Includes
 
 
 ---
-[Targeted Growth: A Visual Sales Story for Strategic Expansion](/pdf/sample_presentation.pdf)
+[Targeted Growth: A Visual Sales Story for Strategic Expansion](/)
 
 
 A data-driven story identifying sales–profit mismatches across U.S. states. Highlighted Pennsylvania’s negative profit trend and proposed a new distribution center near Philadelphia to reduce logistics costs.
 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 ---
 [](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
