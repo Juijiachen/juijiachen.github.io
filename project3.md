@@ -51,6 +51,17 @@ This diagram shows how the tasks connect. For instance, Task F (Final Packaging 
 
 ---
 
+### Behind the Table: How the Timeline Was Built
+
+The values in the table were derived from the task flow graph using the **Critical Path Method (CPM)**. Here's how each column was determined:
+
+- **Earliest Start / Finish**: Calculated by tracing the longest path from the first task, ensuring each step begins only after its dependencies are complete.
+- **Latest Start / Finish**: Worked backward from the overall deadline (16 days), identifying the latest possible time each task can occur without causing delays.
+- **Slack**: The difference between latest and earliest start times. A slack of **0** means the task is time-sensitive and part of the critical path.
+
+
+---
+
 ### Key Insights
 
 1. **Critical Path**: A → C → E → F  
