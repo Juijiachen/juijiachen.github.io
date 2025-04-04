@@ -41,7 +41,7 @@ The project aims to optimize task scheduling in a manufacturing workflow by appl
 
 ---
 
-### [Sustainable Optimization for Food Production](/project3)
+### [Sustainable Optimization for Food Production](/IEOR4004_Team16_Final_Report.pdf)
 
 This project deals with the challenges of balancing profitability and sustainability in the food manufacturing sector. By building a carbon-aware production model for a bakery using mixed-integer programming, it delivers daily schedules that reduce environmental impact while maintaining financial performance. The approach reflects the growing demand for eco-conscious production and offers a practical roadmap for sustainable planning.
 
