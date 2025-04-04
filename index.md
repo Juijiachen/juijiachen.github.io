@@ -45,6 +45,16 @@ The project aims to optimize task scheduling in a manufacturing workflow by appl
 
 This project deals with the challenges of balancing profitability and sustainability in the food manufacturing sector. By building a carbon-aware production model for a bakery using mixed-integer programming, it delivers daily schedules that reduce environmental impact while maintaining financial performance. The approach reflects the growing demand for eco-conscious production and offers a practical roadmap for sustainable planning.
 
+<div style="display: flex; gap: 20px; align-items: center;">
+
+<!-- Donut Chart -->
+<img src="https://github.com/user-attachments/assets/51fa7bc2-d013-456a-ba77-f581cb6b7c37" width="48%" alt="Donut Chart - Production by Daypart">
+
+<!-- Strategy Comparison Bar Chart -->
+<img src="https://github.com/user-attachments/assets/d012c8a7-9ccb-4f4f-b0ef-98a98e23c51f" width="48%" alt="Profit vs Carbon by Strategy">
+
+</div>
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
