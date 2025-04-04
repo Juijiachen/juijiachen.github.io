@@ -1,4 +1,4 @@
-# Coordinating a Smooth Product Rollout: A Production Timeline Strategy
+# Strategic Production Scheduling
 
 To launch a new product line successfully, a mid-sized manufacturing plant needed to carefully coordinate each step—from sourcing materials to final packaging. The target was to complete everything within 16 working days, keeping each department aligned and avoiding delays that could disrupt the schedule.
 
@@ -29,7 +29,8 @@ Each task is connected to others in a way that affects when it can start or fini
 
 ### Task Flow Visualization
 
-![Dependency Graph](path/to/dependency-graph.png)
+![image](https://github.com/user-attachments/assets/20fb6cf0-c50d-4fea-98e9-c7c9628e2f50)
+
 
 This diagram shows how the tasks connect. For instance, Task F (Final Packaging & Shipping) can’t begin until both Task D (Inspection) and Task E (Prep) are done.
 
