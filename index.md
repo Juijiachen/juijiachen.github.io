@@ -4,7 +4,7 @@
 
 ### Analytics Dashboard
 
-[Profit Pulse: Interactive Category Performance Dashboard](/sample_page)
+[Profit Pulse: Interactive Category Performance Dashboard](/project1)
 
 
 A Tableau dashboard analyzing U.S. profitability by category and state. Includes trend lines, bar charts, and a heat map, with interactive filters for dynamic regional and product insights.
