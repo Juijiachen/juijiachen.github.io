@@ -28,7 +28,7 @@ A data-driven story identifying sales–profit mismatches across U.S. states. Hi
 
 ---
 
-### Category Name 2
+### Production Planning
 
 - [Project 1 Title](http://example.com/)
 
